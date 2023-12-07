@@ -71,10 +71,12 @@ The task suggested to extend the analysis to other deepface functionalities, suc
 
 ### Celebrities lookalike
 This project involves facial recognition and comparison using computer vision. The code captures an image from the camera, analyzes it for age, gender, and emotion, and compares it with a set of reference images to find the most similar person amongst the samples.
+
 ![Celebrities Lookalike](./Images/Output/celebrities_lookalike.png)
 
 ### Memes lookalike
 This task focuses on real-time face recognition and comparison using computer vision. The code captures frames from the camera, analyzes each frame for age, gender, and emotion, and performs a similarity comparison with a set of reference images to identify the most similar person. The comparison includes features such as age, gender, and facial similarity.
+
 ![Memes Lookalike](./Images/Output/memes_lookalike.png)
 
 Documentation used:
