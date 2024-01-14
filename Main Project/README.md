@@ -26,6 +26,7 @@ To run the code in the Jupyter notebooks, make sure you have the following packa
 - pygame (`pygame`)
 - os (`os`)
 - math (`math`)
+- pyautogui (`pyautogui`)
 
 ## Required packages
 In order to ensure the proper functioning of the code, you need to install the following packages:
@@ -54,7 +55,10 @@ In order to ensure the proper functioning of the code, you need to install the f
   ```shell
    pip install math
    ```
-
+- pyautogui: Python module for GUI automation. Install it with:
+  ```shell
+   pip install pyautogui
+   ```
 
 ## Project: Technical Description
 The project entails the development of four standalone mini-games, harnessing computer vision technologies for precise and dynamic interaction. Each mini-game integrates specific modules from the MediaPipe library, enabling the detection and tracking of elements such as hands and faces.
