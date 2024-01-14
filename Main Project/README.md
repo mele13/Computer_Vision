@@ -23,7 +23,6 @@ To run the code in the Jupyter notebooks, make sure you have the following packa
 - OpenCV (`cv2`)
 - mediapipe (`mediapipe`)
 - NumPy (`numpy`)
-- pygame (`pygame`)
 - os (`os`)
 - math (`math`)
 - pyautogui (`pyautogui`)
@@ -42,10 +41,6 @@ In order to ensure the proper functioning of the code, you need to install the f
 - NumPy (numpy): a library for numerical operations in Python.
   ```shell
    pip install numpy
-   ```
-- pygame: a cross-platform set of Python modules designed for writing video games.
-  ```shell
-   pip install pygame
    ```
 - os: a module for interacting with the operating system in Python.
   ```shell
