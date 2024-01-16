@@ -22,6 +22,8 @@ In this repository, you will find a collection of assignments, code, and documen
 - [Assignment 3](https://github.com/mele13/Computer_Vision/tree/main/P3)
 - [Assignment 4](https://github.com/mele13/Computer_Vision/tree/main/P4)
 - [Assignment 5](https://github.com/mele13/Computer_Vision/tree/main/P5)
+- [Assignment 6](https://github.com/mele13/Computer_Vision/tree/main/P6)
+- [Main Project](https://github.com/mele13/Computer_Vision/tree/main/Main%20Project)
 
 ## Collaborators
 

@@ -1,5 +1,3 @@
-data*/
-
-brake.*
-
-Readme*
+presentation/
+presentation/**
+*.pdf
