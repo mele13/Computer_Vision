@@ -15,6 +15,7 @@ This repository showcases a project focused on creating a set of four independen
     - [Music](#music)
     - [Paint](#paint)
     - [Graphical Interface, Start, and Exit](#graphical-interface-start-and-exit)
+  - [Presentation](#presentation)
   - [Collaborators](#collaborators)
   - [Disclaimer](#disclaimer)
 
@@ -84,6 +85,9 @@ Documentation used:
 - https://mediapipe-studio.webapps.google.com/home
 - https://developers.google.com/mediapipe/solutions/guide
 - https://opencv.org/
+
+## Presentation
+To access the Powerpoint presentation please use this [link](https://docs.google.com/presentation/d/1EBtYOK_8vJMLyt1k3tzhjhteB4Sjd-OY/edit?usp=drive_link&ouid=101433923275270002899&rtpof=true&sd=true).
 
 ## Collaborators
 - [Selene](https://github.com/SeleneGonzalezCurbelo)
